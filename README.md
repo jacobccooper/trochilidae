@@ -16,6 +16,7 @@ Folders and associated content:
 NOTE: Oversize folders are available via UChicago Box via their associated link.
 
 IOC_hummers.csv: a complete list of hummingbirds from the IOC list.
+
 Cooper&Soberon-codes.R: a near complete file of annotated R codes used for this project.
 
 1. bioclim. Available via https://uchicago.box.com/s/7gn3627ei81is1xys1gxjcm03itbj7k5
