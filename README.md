@@ -1,6 +1,8 @@
 # trochilidae
 Global Hummingbird Niche Models and Associated Code
+
 Jacob C. Cooper, The University of Chicago & The Field Museum
+
 20 July 2017
 
 This repository contains the data necessary for completing the analyses in Cooper & Soberon's 
